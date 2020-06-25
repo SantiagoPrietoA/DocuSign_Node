@@ -1,0 +1,17 @@
+{
+  "name": "nodesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docusign-esign": "^5.4.0",
+    "express": "^4.17.1"
+  }
+}
